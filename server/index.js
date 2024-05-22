@@ -22,10 +22,3 @@ app.listen(port, function() {
     console.log(port);
 })
 
-// làm sao để khi chạy index nó khởi tạo package.json 
-
-// nó không cần tải lại express là do chạy package của cái khác ??
-
-// các thư viện cài về ở đâu mà chỉ cần vài dòng package là chạy được?
-
-//tai sao express va cors dung duoc

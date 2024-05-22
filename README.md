@@ -1,3 +1,9 @@
+Hey everybody,
+
+This is the first website I've made. It's Project 6, the last project in the web development course at PTIT.
+
+Let's check it out now!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
